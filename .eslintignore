@@ -1,0 +1,13 @@
+build/
+public/
+**/coverage/
+**/node_modules/
+**/*.min.js
+**/*.min.cjs
+*.config.js
+*.config.cjs
+.*lintrc.js
+.*lintrc.cjs
+vite.config.ts
+src/graphql/generated.ts
+src/assets/*
