@@ -11,6 +11,7 @@ module.exports = {
     "plugin:import/typescript",
     "plugin:@typescript-eslint/recommended",
     "plugin:tailwindcss/recommended",
+    "plugin:storybook/recommended",
     "prettier",
   ],
   overrides: [],

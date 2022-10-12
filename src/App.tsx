@@ -1,5 +1,5 @@
 export function App() {
   return (
-    <h1 className="w-full bg-zinc-300 text-lg text-zinc-800">React App</h1>
+    <h1 className="bg-zinc-800 text-zinc-300 w-full text-2xl">React App</h1>
   );
 }
